@@ -23,7 +23,7 @@ github_username:  anandjose-arackal
 
 # Build settings
 markdown: kramdown
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
 theme: minima
 plugins:
   - jekyll-feed
